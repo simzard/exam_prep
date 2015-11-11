@@ -1,0 +1,14 @@
+Explain how java programs can be divided up into smaller parts
+	- by grouping your code in relevant classes, and grouping these classes in relevant packages
+	- collecting things that do similar things in a package
+
+Explain different ways how java "parts" can be reused and included in many projects:
+	- need pacakge and then import it from other files
+	- classes, inheritance, extending, implementing interfaces
+	- composition
+
+
+Explain how Angular applications can be divided up into smaller parts
+	- split program parts up in modules
+	- use filters, directives, factories, controllers
+	- have a module pr. file fx 
